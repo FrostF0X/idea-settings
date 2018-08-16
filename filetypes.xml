@@ -5,6 +5,7 @@
       <mapping pattern="types" type="Markdown" />
       <mapping pattern="PointProjector" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
+      <mapping ext="jelly" type="PLAIN_TEXT" />
       <mapping pattern=".content.xml" type="XML" />
     </extensionMap>
   </component>
