@@ -1,0 +1,5 @@
+<application>
+  <component name="TemplateDataLanguagePatterns">
+    <pattern value="jcr_root/*.html" lang="HTML" />
+  </component>
+</application>
