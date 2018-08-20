@@ -2,58 +2,16 @@
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="shift meta x" />
   </action>
-  <action id="AppServers.ChooseArtifacts">
-    <keyboard-shortcut first-keystroke="shift ctrl meta a" />
-  </action>
-  <action id="BuildArtifact">
-    <keyboard-shortcut first-keystroke="ctrl meta b" />
-  </action>
-  <action id="CloseProject">
-    <keyboard-shortcut first-keystroke="shift meta i" />
-  </action>
-  <action id="DatabaseView.PropertiesAction" />
-  <action id="Git.Branches">
-    <keyboard-shortcut first-keystroke="shift meta p" />
-  </action>
-  <action id="GotoNextError">
-    <keyboard-shortcut first-keystroke="f2" />
-    <keyboard-shortcut first-keystroke="ctrl meta w" />
-  </action>
-  <action id="GotoPreviousError">
-    <keyboard-shortcut first-keystroke="shift f2" />
-    <keyboard-shortcut first-keystroke="shift ctrl meta w" />
-  </action>
-  <action id="Maven_aa44e045spring_mvcf8689cadorg.apache.tomcat.maven:tomcat7-maven-plugin:2.2:deploy">
-    <keyboard-shortcut first-keystroke="shift ctrl meta r" />
+  <action id="GoToOccurrenceAction">
+    <keyboard-shortcut first-keystroke="shift meta j" />
+    <keyboard-shortcut first-keystroke="shift meta escape" />
   </action>
   <action id="MethodDown">
+    <keyboard-shortcut first-keystroke="ctrl down" />
     <keyboard-shortcut first-keystroke="ctrl alt down" />
   </action>
   <action id="MethodUp">
-    <keyboard-shortcut first-keystroke="ctrl alt up" />
-  </action>
-  <action id="RecentProjectListGroup">
-    <keyboard-shortcut first-keystroke="meta i" />
-  </action>
-  <action id="ReopenClosedTab">
-    <keyboard-shortcut first-keystroke="shift meta w" />
-  </action>
-  <action id="ShowPopupMenu">
-    <keyboard-shortcut first-keystroke="shift ctrl enter" />
-  </action>
-  <action id="SwitchApply">
-    <keyboard-shortcut first-keystroke="ctrl alt enter" />
-  </action>
-  <action id="SwitchDown">
-    <keyboard-shortcut first-keystroke="ctrl alt down" />
-  </action>
-  <action id="SwitchLeft">
-    <keyboard-shortcut first-keystroke="ctrl alt left" />
-  </action>
-  <action id="SwitchRight">
-    <keyboard-shortcut first-keystroke="ctrl alt right" />
-  </action>
-  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="ctrl up" />
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
 </keymap>
