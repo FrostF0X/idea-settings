@@ -1,12 +1,13 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="jcr_root/*.html" type="HTL" />
       <mapping pattern="types" type="Markdown" />
       <mapping pattern="PointProjector" type="PLAIN_TEXT" />
+      <mapping pattern="taglib" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping ext="jelly" type="PLAIN_TEXT" />
       <mapping pattern=".content.xml" type="XML" />
+      <mapping pattern="jcr_root/*.html" type="HTL" />
     </extensionMap>
   </component>
 </application>
