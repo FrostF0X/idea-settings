@@ -6,4 +6,7 @@
   <action id="RecentProjectListGroup">
     <keyboard-shortcut first-keystroke="meta i" />
   </action>
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift meta w" />
+  </action>
 </keymap>
