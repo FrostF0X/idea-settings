@@ -1,0 +1,12 @@
+<keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="CloseProject">
+    <keyboard-shortcut first-keystroke="shift meta i" />
+  </action>
+  <action id="DatabaseView.PropertiesAction" />
+  <action id="RecentProjectListGroup">
+    <keyboard-shortcut first-keystroke="meta i" />
+  </action>
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift meta w" />
+  </action>
+</keymap>
